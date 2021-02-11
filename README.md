@@ -95,8 +95,8 @@ You can trigger the action manually by starring the repository.
 To enable this feature, uncomment the following lines. (remove the `#` sign from the starting)
 
 ```yml
-#    watch:
-#        types: [started] # When repo owner stars this repo
+watch:
+  types: [started] # When repo owner stars this repo
 ```
 
 **Note** _This feature is not limited to you. Anyone who stars your fork can trigger the action._
