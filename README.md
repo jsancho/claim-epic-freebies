@@ -1,4 +1,5 @@
 # Claim Epic Freebies
+![Claim Free Games](https://github.com/jsancho/claim-epic-freebies/workflows/Claim%20Free%20Games/badge.svg)
 
 EpicGames Weekly Giveaways Auto Claimer
 
